@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student based in Pune, focused on building practical and scalable software systems. Interested in backend architecture, real-time applications, and performance-oriented problem solving.<br><br>🔭 Currently working on Algo-Lab — a secure C++ code execution engine built using Node.js and Docker sandboxing.<br><br>⚡ Tech Stack: React, Node.js, FastAPI, PostgreSQL, C++<br><br>☁️ Learning: AWS Cloud Architecture and low-level system optimizations<br><br>🌱 Interests: Competitive Programming and Machine Learning
+Computer Science student based in Pune, focused on building practical and scalable software systems. Interested in backend architecture, real-time applications, and performance-oriented problem solving.<br><br>🔭 Currently working on Algo-Lab — a secure C++ code execution engine built using Node.js and Docker sandboxing.<br><br>⚡ Tech Stack: React, Node.js, PostgreSQL, C++<br><br>☁️ Learning: AWS Cloud Architecture and low-level system optimizations<br><br>🌱 Interests: Competitive Programming and Machine Learning
 
 
 ## 🌐 Socials:
